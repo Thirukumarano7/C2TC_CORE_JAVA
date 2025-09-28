@@ -1,6 +1,8 @@
-package day3;
+package day3.Constructor;
 
 import java.util.Scanner;
+
+import day3.Customer;
 
 public class ConstructorDemo {
 
@@ -42,6 +44,7 @@ public class ConstructorDemo {
 		System.out.println(c2);
 		
 		sc.close();
+
 
 	}
 

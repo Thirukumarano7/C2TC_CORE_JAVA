@@ -1,4 +1,4 @@
-package day3;
+package day3.scannerdemo;
 
 public class Person {
 	private String name;

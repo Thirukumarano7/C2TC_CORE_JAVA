@@ -1,4 +1,6 @@
-package day3;
+package day3.Encapsulation;
+
+import day3.OopsConceptDemo;
 
 public class EncapsulationDemo {
 

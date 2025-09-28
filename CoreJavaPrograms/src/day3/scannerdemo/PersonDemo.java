@@ -1,6 +1,9 @@
-package day3;
+package day3.scannerdemo;
 
 import java.util.Scanner;
+
+import day3.scannerdemo.Person;
+import day3.scannerdemo.TaxCalculation;
 
 public class PersonDemo {
 

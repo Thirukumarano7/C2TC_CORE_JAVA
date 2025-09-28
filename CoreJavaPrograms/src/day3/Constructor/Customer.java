@@ -1,4 +1,4 @@
-package day3;
+package day3.Constructor;
 
 public class Customer {
 	 private String customerName;
@@ -52,8 +52,5 @@ public class Customer {
 		return "Customer [customerName=" + customerName + ", customerId=" + customerId + ", customerCity="
 				+ customerCity + "]";
 	}
-	
-	
-	
-	
+
 }

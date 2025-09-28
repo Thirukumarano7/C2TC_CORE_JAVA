@@ -1,4 +1,6 @@
-package day3;
+package day3.scannerdemo;
+
+import day3.scannerdemo.Person;
 
 public class TaxCalculation {
 	public void calculateTax(Person person) {
