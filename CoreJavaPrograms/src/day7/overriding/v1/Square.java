@@ -1,4 +1,6 @@
-package day7.overriding.v1;
+//Program to define Subclass Square
+package com.tnsif.dayseven.overriding.v1;
+
 
 public class Square extends Shape {
 	private double side;

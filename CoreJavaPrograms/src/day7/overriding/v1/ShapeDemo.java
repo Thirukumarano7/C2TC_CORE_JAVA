@@ -1,4 +1,5 @@
-package day7.overriding.v1;
+//Program to demonstrate Runtime Polymorphism using Method Overriding
+package com.tnsif.dayseven.overriding.v1;
 
 public class ShapeDemo {
 	public static void main(String[] args) {

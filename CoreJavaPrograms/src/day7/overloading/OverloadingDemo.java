@@ -1,6 +1,8 @@
-package day7.overloading;
+//Program to demonstrate Overloading - Compile Time Polymorphism
+package com.tnsif.dayseven.overloading;
 
 public class OverloadingDemo {
+
 	public static void main(String[] args) {
 
 		System.out.println("------------------------ Constructor Overloading -----------------------");
@@ -21,5 +23,4 @@ public class OverloadingDemo {
 		System.out.println("Addition of one float and one integer :" + MethodOverloading.addition(10.0f, 20));
 		System.out.println("Addition of two Strings : " + MethodOverloading.addition("Hello ", "World"));
 	}
-
 }

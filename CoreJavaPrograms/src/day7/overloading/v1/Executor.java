@@ -1,6 +1,8 @@
-package day7.overloading.v1;
+//Program to demonstrate method overloading
+package com.tnsif.dayseven.overloading.v1;
 
 public class Executor {
+
 	public static void main(String[] args) {
 
 		System.out.println("Is 121 Palindrome? "+Operations.isPalindrome(121));

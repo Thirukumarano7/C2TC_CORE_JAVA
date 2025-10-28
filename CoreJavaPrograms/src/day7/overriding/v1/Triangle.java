@@ -1,4 +1,5 @@
-package day7.overriding.v1;
+//Program to define Subclass Triangle
+package com.tnsif.dayseven.overriding.v1;
 
 public class Triangle extends Shape {
 	private double base;

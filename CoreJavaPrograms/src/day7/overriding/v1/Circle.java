@@ -1,4 +1,6 @@
-package day7.overriding.v1;
+//Program to define Subclass Circle
+package com.tnsif.dayseven.overriding.v1;
+
 
 class Circle extends Shape {
 	private double radius;
